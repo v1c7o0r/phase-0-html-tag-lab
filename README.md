@@ -11,8 +11,6 @@ So far, we've seen how to markup content with HTML, how to structure an HTML
 document and what HTML tags look like. Now let's focus on writing a single HTML
 tag from scratch and examining each of its parts.
 
-## Getting Started
-
 **Fork and clone** this lesson into your local environment. Navigate into its
 directory in the terminal, then run `code .` to open the files in Visual Studio
 Code. Run `npm test` as you go to see your test progress.
